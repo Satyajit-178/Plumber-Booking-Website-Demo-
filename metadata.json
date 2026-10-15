@@ -1,0 +1,8 @@
+{
+  "name": "ProPlumb Mobile Site",
+  "description": "A high-converting, mobile-first website template designed to help plumbing businesses drive calls and capture leads quickly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
